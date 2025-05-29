@@ -1,0 +1,20 @@
+WARP DNS Kurulumu
+Cloudflare WARP DNS'i kurmak için aşağıdaki bağlantıyı kullanabilirsiniz:
+https://1111-releases.cloudflareclient.com/win/latest
+
+Discord Hesabı Oluşturun
+Yeni bir Discord hesabı oluşturmak için aşağıdaki videoyu izleyin:
+https://www.youtube.com/watch?v=frOeN3g0-lE
+
+Discord Tokeni Bulun
+Oluşturduğunuz Discord hesabının token bilgilerini nasıl bulacağınızı öğrenmek için şu videoyu izleyin:
+https://www.youtube.com/watch?v=KeEp8uom4zo
+
+Sunucuya Katılın
+Discord hesabınızla aşağıdaki sunucuya katılın:
+https://discord.gg/Dw8E7fzrjw
+
+Yazılım ve Kod Erişimi
+Kodu nasıl alacağınızla ilgili detaylı anlatımı aşağıdaki videodan öğrenebilirsiniz:
+https://streamable.com/z38vg9
+
